@@ -10,7 +10,9 @@ filename = args.filepath
 f = open(filename, 'r')
 data = f.readlines()
 f.close()
-
+"""
+This was the homework for session 3
+"""
 print(f'Analyzing {filename}')
 
 # data/03_Prod.mdout
